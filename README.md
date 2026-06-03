@@ -27,6 +27,7 @@ I'm an **Experienced Web Developer** based in Indonesia, passionate about turnin
 - 🌱 &nbsp; Deepening my knowledge of **Next.js** ecosystem
 - 🤝 &nbsp; Looking for help and collaboration on **Ruby on Rails**
 - 💬 &nbsp; Ask me about **Frontend Development, UI/UX Design, Golang**
+- 🌐 &nbsp; Visit my website at **[saifularif.com](https://www.saifularif.com)**
 - 📫 &nbsp; Reach me at **saifularif.dev@gmail.com**
 - ⚡ &nbsp; Fun fact: I think great design is invisible — it just works
 
@@ -58,12 +59,17 @@ I'm an **Experienced Web Developer** based in Indonesia, passionate about turnin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msaifularif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaifularif&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msaifularif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaifularif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
+---
+
+## 🔥 GitHub Streak
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msaifularif&theme=tokyonight" alt="msaifularif" />
+  <img src="https://streak-stats.demolab.com?user=msaifularif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -71,7 +77,7 @@ I'm an **Experienced Web Developer** based in Indonesia, passionate about turnin
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msaifularif&theme=tokyonight&no-frame=true&row=1&column=7" alt="msaifularif" />
+  <img src="https://github-profile-trophy.vercel.app/?username=msaifularif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="msaifularif trophies" />
 </div>
 
 ---
@@ -79,7 +85,7 @@ I'm an **Experienced Web Developer** based in Indonesia, passionate about turnin
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaifularif&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaifularif&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -88,6 +94,7 @@ I'm an **Experienced Web Developer** based in Indonesia, passionate about turnin
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-saifularif.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.saifularif.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msaifularif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msaifularif/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/msaifularifdev)
